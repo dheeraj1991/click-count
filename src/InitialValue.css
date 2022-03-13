@@ -1,0 +1,18 @@
+.initial-value {
+  outline: 0;
+  border-width: 0 0 2px;
+  border-color:  #2196F3;
+}
+
+.initial-value:focus {
+  border-color: green
+}
+
+.form-submit{
+  color:  white;
+  background: #007bff;
+  border-color: #007bff;
+  text: white;
+  font-size: 12px;
+  border-radius: 5px;
+}
